@@ -6,6 +6,8 @@ Markdown is a way to format the style of text on the web using simple non-alphab
 
 ## How to use Markdown
 
+This page is dedicated to explaining the numerous ways to use Markdown to format your web text. The following information is broken down into vocabulary definitions pair with examples of how to apply style to your text. 
+
 ### Headers
 
 To create a heading, you can start a line with `#`. The number of `#` you use will determine the size of the heading. You can include up to 6 tiers of headings to style your text. 
@@ -32,11 +34,11 @@ Bold and Nested Italics `** **` and `_ _`
 
 All bold and Italics `*** ***`
 
-#### Quotes
+### Quotes
 
 To quote text, use a `>`
 
-#### Quoting Code
+### Quoting Code
 
 Use backticks to create distinct blocks around code examples. To format code or text into distinct blocks, use triple backticks. This creates a visual snapshot of the example. 
 
@@ -57,3 +59,35 @@ To create unordered lists, start the line with a `-` or a `*`
 ### Links
 
 To create an inline link, wrap your text in brackets `[ ]` and wrap the url in parentheses `( )`
+
+
+## Let's Review
+
+### 1. Which character can be used to start each line in an unordered list?
+
+### 2. Which charachter can be used to start each line in an ordered list?
+
+### 3. What format can be used to create a hyperlink?
+
+### 4. What impact is rendered by using `*webdev*`
+
+### 5. What impact is rendered by using `**webdev**`
+
+### 6. What impact is rendered by using `* webdev`
+
+### 7. What impact is rendered by using `> webdev`
+
+### 8. What impact is rendered by using `# webdev`
+
+
+## Answers
+
+1. `*`, `-` or `+`
+2. `1.`
+3. wrap text in brackets and the url in parentheses
+4. italics
+5. bold
+6. unordered list
+7. text quotes
+8. h1 header
+

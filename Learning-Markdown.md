@@ -2,11 +2,15 @@
 
 ## What is Markdown?
 
-Markdown is a way to format the style of text on the web using simple non-alphabetic characters.
+Markdown is a way to format the style of text on the web using simple non-alphabetic characters. HTML gives you control, however it slows down your authoring process. Markdown is a lightweight markup for generating HTML text. 
 
 ## How to use Markdown
 
-This page is dedicated to explaining the numerous ways to use Markdown to format your web text. The following information is broken down into vocabulary definitions pair with examples of how to apply style to your text. 
+This page is dedicated to explaining the numerous ways to use Markdown to format your web text. The following information is broken down into vocabulary definitions paired with examples of how to apply style to your text in a GitHub repository. 
+
+### Repository
+
+A repository, also known as a "repo," is basically a bucket where you can place your code for the public. 
 
 ### Headers
 

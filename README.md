@@ -12,9 +12,9 @@ Simply stated, ***what the mind can conceive, it can achieve.***
 
 Author: Sara Elizabeth Perry
 
-# Markdown
+# Learning Markdown
 
-To read more about Markdowns, https://github.com/saraperrayy/reading-notes/blob/0e01d168a00a275e2de6e7caf8b53452107233f1/Learning-Markdown.md
+Markdown is a way to format the style of text on the web using simple non-alphabetic characters. HTML gives you control, however it slows down your authoring process. Markdown is a lightweight markup for generating HTML text. Read more about Markdowns https://github.com/saraperrayy/reading-notes/blob/0e01d168a00a275e2de6e7caf8b53452107233f1/Learning-Markdown.md
 
 ### About Sara
 

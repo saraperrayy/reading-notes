@@ -8,17 +8,26 @@ Markdown is a way to format the style of text on the web using simple non-alphab
 
 ### Headers
 
-To create a heading, you can start a line with `#`. You can include up to 6 tiers of headings to style your text. 
+To create a heading, you can start a line with `#`. The number of `#` you use will determine the size of the heading. You can include up to 6 tiers of headings to style your text. 
 
 `# this is an <h1> heading`
+
 `## this is an <h2> heading`
+
+### Paragraphs
+
+You can create new paragraphs by leaving a blank line between each new section. 
 
 ### Text Styling
 
 Bold `**` or `__ __`
+
 Italic `*` or `_ _`
+
 Strikethrough `~~`
+
 Bold and Nested Italics `** **` and `_ _`
+
 All bold and Italics `*** ***`
 
 #### Emphasis

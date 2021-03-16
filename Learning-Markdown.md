@@ -23,13 +23,28 @@ All bold and Italics `*** ***`
 
 #### Emphasis
 
+
+
 #### Quotes
+
+#### Quoting Code
+
+Use backticks to create distinct blocks around code examples. To format code or text into distinct blocks, use triple backticks. 
 
 ### Lists
 
+There are numerous ways to create lists using Markdown. 
+
 #### Ordered
+
+To created an ordered list, simply start the line with a number. 
 
 #### Unordered
 
+To create unordered lists, start the line with a `-` or a `*`
+
 ### Images
 
+### Links
+
+To create an inline link, wrap your text in brackets `[ ]` and wrap the url in parentheses `( )`

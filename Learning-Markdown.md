@@ -27,9 +27,11 @@ All bold and Italics `*** ***`
 
 #### Quotes
 
+To quote text, use a `>`
+
 #### Quoting Code
 
-Use backticks to create distinct blocks around code examples. To format code or text into distinct blocks, use triple backticks. 
+Use backticks to create distinct blocks around code examples. To format code or text into distinct blocks, use triple backticks. This creates a visual snapshot of the example. 
 
 ### Lists
 

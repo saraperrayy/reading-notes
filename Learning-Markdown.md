@@ -44,7 +44,7 @@ Use backticks to create distinct blocks around code examples. To format code or 
 
 ### Lists
 
-There are numerous ways to create lists using Markdown. 
+There are numerous ways to create lists using Markdown. Lists can be divided into two categories: ordered and unordered, which each have several ways to create. 
 
 #### Ordered
 
@@ -52,9 +52,11 @@ To created an ordered list, simply start the line with a number.
 
 #### Unordered
 
-To create unordered lists, start the line with a `-` or a `*`
+To create unordered lists, start the line with a `-`, `+` or a `*`
 
 ### Images
+
+To imbed images, use this method `![image name/alt text] (file location)`
 
 ### Links
 
@@ -63,21 +65,21 @@ To create an inline link, wrap your text in brackets `[ ]` and wrap the url in p
 
 ## Let's Review
 
-### 1. Which character can be used to start each line in an unordered list?
+1. Which character can be used to start each line in an unordered list?
 
-### 2. Which charachter can be used to start each line in an ordered list?
+2. Which charachter can be used to start each line in an ordered list?
 
-### 3. What format can be used to create a hyperlink?
+3. What format can be used to create a hyperlink?
 
-### 4. What impact is rendered by using `*webdev*`
+4. What impact is rendered by using `*webdev*`
 
-### 5. What impact is rendered by using `**webdev**`
+5. What impact is rendered by using `**webdev**`
 
-### 6. What impact is rendered by using `* webdev`
+6. What impact is rendered by using `* webdev`
 
-### 7. What impact is rendered by using `> webdev`
+7. What impact is rendered by using `> webdev`
 
-### 8. What impact is rendered by using `# webdev`
+8. What impact is rendered by using `# webdev`
 
 
 ## Answers

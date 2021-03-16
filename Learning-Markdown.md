@@ -20,6 +20,8 @@ You can create new paragraphs by leaving a blank line between each new section.
 
 ### Text Styling
 
+Styling is important for when you need to create emphasis in your text. 
+
 Bold `**` or `__ __`
 
 Italic `*` or `_ _`
@@ -29,10 +31,6 @@ Strikethrough `~~`
 Bold and Nested Italics `** **` and `_ _`
 
 All bold and Italics `*** ***`
-
-#### Emphasis
-
-
 
 #### Quotes
 

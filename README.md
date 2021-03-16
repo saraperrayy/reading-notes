@@ -14,7 +14,7 @@ Author: Sara Elizabeth Perry
 
 # Learning Markdown
 
-Markdown is a way to format the style of text on the web using simple non-alphabetic characters. HTML gives you control, however it slows down your authoring process. Markdown is a lightweight markup for generating HTML text. Read more about [Markdowns](https://saraperrayy.github.io/reading-notes/Learning-Markdown)
+Markdown is a way to format the style of text on the web using simple non-alphabetic characters. HTML gives you control, however it slows down your authoring process. Markdown is a lightweight markup for generating HTML text. Read more about [Markdowns](learning-markdown.md)
 
 ### About Sara
 

@@ -16,6 +16,11 @@ Author: Sara Elizabeth Perry
 
 Markdown is a way to format the style of text on the web using simple non-alphabetic characters. HTML gives you control, however it slows down your authoring process. Markdown is a lightweight markup for generating HTML text. Read more about [Markdowns](Learning-Markdown.md)
 
+# The Coder’s Computer
+
+This section is a resource for definitions and information regarding basic terminal usage. [Read more](The-Coders-Computer.md)
+
+
 ### About Sara
 
 I've always been a storyteller. Remember that kid in trouble for talking? That was me. I’m a firm believer that your childhood plays a major role in your future. Good or bad — the impression is up to you. Not one to be held back by my faults, in 2020 I leveraged my gift of communication and opened my business, Gemini Design Studio, LLC. My passion for individuality far exceeds the threads of a coveted jean jacket and is a value embedded in the foundation of Gemini Design Studio. Your brand is better when it is **YOU**. Much more than a pretty logo, your brand is crafted from your business’s core — *your values, your stories, your personality*.  

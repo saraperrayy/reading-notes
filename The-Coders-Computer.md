@@ -75,13 +75,61 @@ This command tells ls not to list our current directory but rather to list that 
 
 This command promts a long listing of the directory /etc
 
+### `cd` 
+
+cd stands for change directory, to move around in the system
+
+### `cd [location]`
+
 ## Paths
 
-A path is a means to get to a particular location in the system and that location is a file. There are two types of paths: absolute and relative. 
+A path `file [path]` is a means to get to a particular location in the system and that location is a file. There are two types of paths: absolute and relative. 
 
 ### Absolute Paths
 
+command: forward slash `/` 
+
+Absolute paths specify a location (file or directory) in relation to the root directory. 
+
 ### Relative Paths
+
+Relative paths specify a location (file or directory) in relation to where we currently are in the system. They will not begin with a slash.
+
+`~` (tilde) - This is a shortcut for your home directory
+`.` (dot) - This is a reference to your current directory
+`..` (dotdot)- This is a reference to the parent directory
+
+
+## Spaces
+
+A space on the command line is how we seperate items. However, this could cause issues. Example `cd Holiday Photos` will render the response "No such file or directory." There are two solutions to this problem. 
+
+
+### Quotes
+
+You may use either single or double quotes, anything inside is considered a single item. Example: `cd 'Holiday Photos'`
+
+### Escape characters
+
+backslash `\` escapes (or nullifies) the special meaning of the next character. Example: `cd Holiday\ Photos`
+
+## Hidden files and directories
+
+## Linux Information
+
+### Everything is a file under Linux
+Even directories.
+
+### Linux is an extensionless system
+Files can have any extension they like or none at all.
+Under Linux the system actually ignores the extension and looks inside the file to determine what type of file it is
+
+* ile.exe - an executable file, or program.
+* file.txt - a plain text file.
+* file.png, file.gif, file.jpg - an image.
+
+### Linux is case sensitive
+Beware of silly typos.
 
 
 

@@ -30,9 +30,7 @@ A text editor does simply that — edits text. However, an IDE is a suite of dif
 
 A command line, also known as a terminal, is a text based interface to the system. You can enter commands by typing them on the keyboard that will promt feedback similarly as text.
 
-### Opening a Terminal
-
-#### Mac
+### Opening a Mac Terminal 
 1. `command + space` then search "terminal"
 2. open your launchpad and find the terminal
 3. Go to Finder, then applications, and finally to Utilities and you'll see the terminal
@@ -43,19 +41,13 @@ The shell, the part of the operating system that determines how the terminal wil
 
 ## Commands
 
-### `PWD`
-
- Print Working directory
+`PWD` Print Working directory
  
- `ls`
- 
- ls is short for list
+`ls` short for list
 
-### `ls [options] [location]`
+`ls [options] [location]` lets you know what is in your current location. The square brackets mean that those items are optional and you can run the command with or without them. 
 
-This command lets you know what is in your current location. The square brackets mean that those items are optional and you can run the command with or without them. 
-
-### `ls -l`
+`ls -l` is short for long listing
 
 A long listing has the following:
 * First character indicates whether it is a normal file ( - ) or directory ( d )
@@ -67,19 +59,13 @@ A long listing has the following:
 * Next up is the file modification time
 * Finally, we have the actual name of the file or directory
 
-### `ls /etc`
+`ls /etc`  tells ls not to list our current directory but rather to list that directories contents.
 
-This command tells ls not to list our current directory but rather to list that directories contents.
+`-l /etc` promts a long listing of the directory /etc
 
-### `-l /etc`
+`cd` stands for change directory, to move around in the system
 
-This command promts a long listing of the directory /etc
-
-### `cd` 
-
-cd stands for change directory, to move around in the system
-
-### `cd [location]`
+`cd [location]`
 
 ## Paths
 

@@ -47,7 +47,7 @@ The shell, the part of the operating system that determines how the terminal wil
 
  Print Working directory
  
- ### `ls`
+ ###  `ls`
  
  ls is short for list
 
@@ -95,9 +95,9 @@ Absolute paths specify a location (file or directory) in relation to the root di
 
 Relative paths specify a location (file or directory) in relation to where we currently are in the system. They will not begin with a slash.
 
-`~` (tilde) - This is a shortcut for your home directory
-`.` (dot) - This is a reference to your current directory
-`..` (dotdot)- This is a reference to the parent directory
+* `~` (tilde) - This is a shortcut for your home directory
+* `.` (dot) - This is a reference to your current directory
+* `..` (dotdot)- This is a reference to the parent directory
 
 
 ## Spaces

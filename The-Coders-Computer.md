@@ -49,7 +49,7 @@ The shell, the part of the operating system that determines how the terminal wil
 
 ## Commands
 
-`PWD` Print Working Sirectory
+`PWD` Print Working Directory
  
 `ls` is short for list
 

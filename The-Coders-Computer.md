@@ -22,9 +22,13 @@ Syntax highlighting takes the text you type and colorizes it, making it more not
 
 Themes allow you to change the color of the background of your text editor, the series of colors in your text, and sometimes other aspects of your text editing software. This can make the text editor easier on the eyes. 
 
+
+
 ## IDE (Integrated Development Environment)
 
 A text editor does simply that — edits text. However, an IDE is a suite of different software coming together as one. An IDE is a text editor, a file manager, a compiler, and a debugger all in one. 
+
+
 
 ## The Command Line
 
@@ -35,15 +39,19 @@ A command line, also known as a terminal, is a text based interface to the syste
 2. open your launchpad and find the terminal
 3. Go to Finder, then applications, and finally to Utilities and you'll see the terminal
 
+
+
 ## The Shell (Bash)
 
 The shell, the part of the operating system that determines how the terminal will behave, is found within the terminal. The shell also looks after executing commands for you. 
 
+
+
 ## Commands
 
-`PWD` Print Working directory
+`PWD` Print Working Sirectory
  
-`ls` short for list
+`ls` is short for list
 
 `ls [options] [location]` lets you know what is in your current location. The square brackets mean that those items are optional and you can run the command with or without them. 
 
@@ -67,6 +75,8 @@ A long listing has the following:
 
 `cd [location]`
 
+
+
 ## Paths
 
 A path `file [path]` is a means to get to a particular location in the system and that location is a file. There are two types of paths: absolute and relative. 
@@ -86,20 +96,34 @@ Relative paths specify a location (file or directory) in relation to where we cu
 * `..` (dotdot)- This is a reference to the parent directory
 
 
+
 ## Spaces
 
-A space on the command line is how we seperate items. However, this could cause issues. Example `cd Holiday Photos` will render the response "No such file or directory." There are two solutions to this problem. 
+A space on the command line is how we seperate items. However, this could cause issues. 
 
+Example: `cd Holiday Photos` will render the response "No such file or directory." There are two solutions to this problem. 
 
 ### Quotes
 
-You may use either single or double quotes, anything inside is considered a single item. Example: `cd 'Holiday Photos'`
+You may use either single or double quotes, anything inside is considered a single item. 
+
+Example: `cd 'Holiday Photos'`
 
 ### Escape characters
 
-backslash `\` escapes (or nullifies) the special meaning of the next character. Example: `cd Holiday\ Photos`
+backslash `\` escapes (or nullifies) the special meaning of the next character. 
+
+Example: `cd Holiday\ Photos`
+
+
 
 ## Hidden files and directories
+
+If the file or directory's name begins with a `.` (full stop) then it is considered to be hidden
+
+use `ls -a` to view the list the contents of a directory, including hidden files.
+
+
 
 ## Linux Information
 

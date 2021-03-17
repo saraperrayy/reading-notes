@@ -47,7 +47,7 @@ The shell, the part of the operating system that determines how the terminal wil
 
  Print Working directory
  
- ###  `ls`
+ `ls`
  
  ls is short for list
 

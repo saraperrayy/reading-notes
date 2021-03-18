@@ -29,6 +29,8 @@ I've always been a storyteller. Remember that kid in trouble for talking? That w
 
 
 ### Let's connect 
-* Github: https://github.com/saraperrayy
+* Github: github.com/saraperrayy
+* LinkedIn: linkedin.com/in/saraperrayy
 * Twitter: @saraperrayy
 * Instagram: @gemini.design.studio
+

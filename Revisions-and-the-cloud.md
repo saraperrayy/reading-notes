@@ -51,7 +51,7 @@ You can run `git status` once more to see information about the changes that are
 
 ### Using git commit
 
-Almost there! Type `> git commit -m` + ` “your message” `
+Almost there! Type `> git commit -m` + `“your message”`
 
 What do these command mean? Let’s break it down a little further:
 

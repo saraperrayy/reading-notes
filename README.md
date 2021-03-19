@@ -6,19 +6,20 @@ I've always been a storyteller. Remember that kid in trouble for talking? That w
 
 <img src="https://user-images.githubusercontent.com/80362565/111243517-3478f980-85cf-11eb-8683-c39d3f891e29.jpg" width="100">
 
-## Let's connect 
+## Let's connect
+
 * Github: github.com/saraperrayy
 * LinkedIn: linkedin.com/in/saraperrayy
 * Twitter: @saraperrayy
 * Instagram: @gemini.design.studio
 * www.geminidesignstudio.com
 
-# Table of Contents
+## Table of Contents
 
-## [Growth Mindset](Growth-Mindset.md)
+### [Growth Mindset](Growth-Mindset.md)
 
-## [Learning Markdown](Learning-Markdown.md)
+### [Learning Markdown](Learning-Markdown.md)
 
-## [The Coder’s Computer](The-Coders-Computer.md)
+### [The Coder’s Computer](The-Coders-Computer.md)
 
-## [Revisions and the Cloud](Revisions-and-the-cloud.md)
+### [Revisions and the Cloud](Revisions-and-the-cloud.md)

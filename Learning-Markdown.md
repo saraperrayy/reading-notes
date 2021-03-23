@@ -2,19 +2,19 @@
 
 ## What is Markdown?
 
-Markdown is a way to format the style of text on the web using simple non-alphabetic characters. HTML gives you control, however it slows down your authoring process. Markdown is a lightweight markup for generating HTML text. 
+Markdown is a way to format the style of text on the web using simple non-alphabetic characters. HTML gives you control, however it slows down your authoring process. Markdown is a lightweight markup for generating HTML text.
 
 ## How to use Markdown
 
-This page is dedicated to explaining the numerous ways to use Markdown to format your web text. The following information is broken down into vocabulary definitions paired with examples of how to apply style to your text in a GitHub repository. 
+This page is dedicated to explaining the numerous ways to use Markdown to format your web text. The following information is broken down into vocabulary definitions paired with examples of how to apply style to your text in a GitHub repository.
 
 ### Repository
 
-A repository, also known as a "repo," is basically a bucket where you can place your code for the public. 
+A repository, also known as a "repo," is basically a bucket where you can place your code for the public.
 
 ### Headers
 
-To create a heading, you can start a line with `#`. The number of `#` you use will determine the size of the heading. You can include up to 6 tiers of headings to style your text. 
+To create a heading, you can start a line with `#`. The number of `#` you use will determine the size of the heading. You can include up to 6 tiers of headings to style your text.
 
 `# this is an <h1> heading`
 
@@ -22,11 +22,11 @@ To create a heading, you can start a line with `#`. The number of `#` you use wi
 
 ### Paragraphs
 
-You can create new paragraphs by leaving a blank line between each new section. 
+You can create new paragraphs by leaving a blank line between each new section.
 
 ### Text Styling
 
-Styling is important for when you need to create emphasis in your text. 
+Styling is important for when you need to create emphasis in your text.
 
 Bold `**` or `__ __`
 
@@ -44,15 +44,15 @@ To quote text, use a `>`
 
 ### Quoting Code
 
-Use backticks to create distinct blocks around code examples. To format code or text into distinct blocks, use triple backticks. This creates a visual snapshot of the example. 
+Use backticks to create distinct blocks around code examples. To format code or text into distinct blocks, use triple backticks. This creates a visual snapshot of the example.
 
 ### Lists
 
-There are numerous ways to create lists using Markdown. Lists can be divided into two categories: ordered and unordered, which each have several ways to create. 
+There are numerous ways to create lists using Markdown. Lists can be divided into two categories: ordered and unordered, which each have several ways to create.
 
 #### Ordered
 
-To created an ordered list, simply start the line with a number. 
+To created an ordered list, simply start the line with a number.
 
 #### Unordered
 
@@ -65,7 +65,6 @@ To imbed images, use this method `![image name/alt text] (file location)`
 ### Links
 
 To create an inline link, wrap your text in brackets `[ ]` and wrap the url in parentheses `( )`
-
 
 ## Let's Review
 
@@ -85,7 +84,6 @@ To create an inline link, wrap your text in brackets `[ ]` and wrap the url in p
 
 8. What impact is rendered by using `# webdev`
 
-
 ## Answers
 
 1. `*`, `-` or `+`
@@ -96,4 +94,3 @@ To create an inline link, wrap your text in brackets `[ ]` and wrap the url in p
 6. unordered list
 7. text quotes
 8. h1 header
-

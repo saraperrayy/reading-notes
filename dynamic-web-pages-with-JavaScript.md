@@ -55,19 +55,24 @@ JavaScript adds interactivity to the web page
 
 ### Statements
 
+A script is a series of instructions that a compuer can follow one-by-one
+
+
 ### Comments
+
+A comment explains what the code does to help make the code easier for you to read and understand
 
 ### Variables
 
-#### How to use variables
-
-#### How to declare variables
+A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables.
 
 #### How to assign variables a value
 
-#### Using a variable to store a number
-
-#### Using a variable to store a string
+The equal sign is an assignment operator. It says that you are going to assign a value to the variable. Until then, it is undefined. 
 
 ### Data Types
+
+* Numeric Data Type
+* String Data Type
+* Boolean Data Type
 

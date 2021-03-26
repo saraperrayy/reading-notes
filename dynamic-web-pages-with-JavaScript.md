@@ -75,4 +75,3 @@ The equal sign is an assignment operator. It says that you are going to assign a
 * Numeric Data Type
 * String Data Type
 * Boolean Data Type
-

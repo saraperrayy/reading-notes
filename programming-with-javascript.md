@@ -192,5 +192,3 @@ Some functions return information to the code that called them. For example, whe
 4. 0
 5. Expressions that just assign value to a variable and expressions that use two or more values to return a single value
 6. Giving a function a name and writing the statement needed to achieve its tasks inside the curly brackets
-
-

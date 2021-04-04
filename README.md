@@ -23,3 +23,16 @@ I've always been a storyteller. Remember that kid in trouble for talking? That w
 ### [The Coder’s Computer](The-Coders-Computer.md)
 
 ### [Revisions and the Cloud](Revisions-and-the-cloud.md)
+
+### [Computer Architecture and the Cloud](computer-architecture-and-logic.md)
+
+### [Designing with CSS](designing-with-css.md)
+
+### [Dynamic Web Pages with Java Script](dynamic-web-pages-with-JavaScript.md)
+
+### [HTML Structure](html-structure.md)
+
+### [Operators and Loops](operators-and-loops.md)
+
+### [Programming with Java Script](programming-with-javascript.md)
+

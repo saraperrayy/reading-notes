@@ -16,23 +16,56 @@ I've always been a storyteller. Remember that kid in trouble for talking? That w
 
 ## Table of Contents
 
-### [Growth Mindset](Growth-Mindset.md)
+### Code 102 Reading Notes: Web Development Fundamentals
 
-### [Learning Markdown](Learning-Markdown.md)
+#### [Growth Mindset](Growth-Mindset.md)
 
-### [The Coder’s Computer](The-Coders-Computer.md)
+#### [Learning Markdown](Learning-Markdown.md)
 
-### [Revisions and the Cloud](Revisions-and-the-cloud.md)
+#### [The Coder’s Computer](The-Coders-Computer.md)
 
-### [Computer Architecture and the Cloud](computer-architecture-and-logic.md)
+#### [Revisions and the Cloud](Revisions-and-the-cloud.md)
 
-### [Designing with CSS](designing-with-css.md)
+#### [Computer Architecture and the Cloud](computer-architecture-and-logic.md)
 
-### [Dynamic Web Pages with Java Script](dynamic-web-pages-with-JavaScript.md)
+#### [Designing with CSS](designing-with-css.md)
 
-### [HTML Structure](html-structure.md)
+#### [Dynamic Web Pages with Java Script](dynamic-web-pages-with-JavaScript.md)
 
-### [Operators and Loops](operators-and-loops.md)
+#### [HTML Structure](html-structure.md)
 
-### [Programming with Java Script](programming-with-javascript.md)
+#### [Operators and Loops](operators-and-loops.md)
 
+#### [Programming with Java Script](programming-with-javascript.md)
+
+### Code 201 Reading Notes: Foundations of Software Development
+
+#### [Introductory HTML and JavaScript](class-01.md)
+
+#### class-02.md
+
+#### class-03.md
+
+#### class-04.md
+
+#### class-05.md
+
+#### class-06.md
+
+#### class-07.md
+
+#### class-08.md
+
+#### class-09.md
+
+#### class-10.md
+
+#### class-11.md
+
+#### class-12.md
+
+#### class-13.md
+
+#### class-14.md
+
+#### class-15.md

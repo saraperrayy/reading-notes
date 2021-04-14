@@ -16,7 +16,7 @@ This section summarizes material covered in Duckett HTML & CSS
 * Declarations are made up of two parts: properties of the element that you want to change, and the values of those properties
 * CSS rules usually appear in a separate document
 
-## JavaScript 
+## JavaScript
 
 and Duckett JavaScript books
 

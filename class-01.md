@@ -1,6 +1,5 @@
  # Introductory HTML and JavaScript
 
-html
 ## HTML Structure
 
 * HTML pages are text documents

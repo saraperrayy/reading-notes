@@ -46,7 +46,7 @@ I've always been a storyteller. Remember that kid in trouble for talking? That w
 
 #### [HTML Lists, Control Flow with JS, and the CSS Box Model](class-03.md)
 
-#### class-04.md
+#### [HTML Links, CSS Layout, JS Functions](class-04.md)
 
 #### class-05.md
 

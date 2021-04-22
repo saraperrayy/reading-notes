@@ -20,7 +20,7 @@ You should save images at the size you will be using them on the webpage and in 
 2. Inside the start of a paragraph
 3. In the middle of a paragraph
 
-## Chapter 11: “Color” (pp.246-263)
+## Chapter 11: Color (pp.246-263)
 
 Color helps convey the mood of your site, evoke reactions and gives your site life. It is important to ensure that there is enough contrast between any text and the packground color so that the viewer can read your text. If text is reversed out (a light color on a dark background), you can increase the height between lines and the weight of the font to make it easier to read
 
@@ -44,7 +44,7 @@ Color helps convey the mood of your site, evoke reactions and gives your site li
 
 **Lightness**: sometimes refered to as luminosity,is the amount of white or black is in a color and is represented as a percentage (0%=black, 100%=white, 50%=normal)
 
-## Chapter 12: “Text” (pp.264-299)
+## Chapter 12: Text (pp.264-299)
 
 * There are properties to control the choice of font, size, weight, style, and spacing.
 * There is a limited choice of fonts that you can assume most people have installed

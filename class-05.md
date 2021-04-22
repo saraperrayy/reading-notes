@@ -59,7 +59,7 @@ Color helps convey the mood of your site, evoke reactions and gives your site li
 The default size of a text in a broswer is 16 px
 Percentages or ems calculate the size of text you want based on the default size of text used in the browser.
 
-<img src="saraperry/reading-notes/units.png">
+<img src="/users/saraperry/reading-notes/units.png">
 
 ### Typeface Terminology
 

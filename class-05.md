@@ -59,35 +59,35 @@ Color helps convey the mood of your site, evoke reactions and gives your site li
 The default size of a text in a broswer is 16 px
 Percentages or ems calculate the size of text you want based on the default size of text used in the browser.
 
-<img src="/users/saraperry/reading-notes/units.png">
+<img src="units.png">
 
 ### Typeface Terminology
 
-**Serif fonts**: extra details on the ends of the main strokes of the letter — traditionally used for long text passages in print materials
-**Sans-serif fonts**: straight ends creating a cleaner design — if texts are small, sans-serif fonts are easier to read on screens because of the lower resolution compared to that of print 
-**Monospace fonts**: also known as fixed-width, where every letter within the font is the same width — commonly used for code because they align nicely
-**Cursive fonts**: either have joining strokes or other cursive characteristics
-**Fantasy fonts**: usually decorative fonts and are often used for titles
-**Weight**: (light, medium, bold and black) adds emphasis and affects the amouny of white space and contrast on a page
-**Style**: normal, italic, oblique
-**Italic**: add a cursive aspect to some of the lettering
-**Oblique**: angled version of the normal style
-**Stretch**: condensed, regular and extended
-**Condensed**: (narrow) letters are thinner and closer together
-**Extended**: letters are thicker and further apart
-**Alignment**: (left, right, center, justify) allows you to control the alignment of text
-**Justify**: indicates that every line in a paragraph, except the last line should take up the full width of the containing box
-**Vertical alignment**: used with inline elements (baseline, sub, super, top, text-top, middle, bottom, text-bottom, length)
-**Psuedo elements**: acts like an extra element in the code
-**Psuedo class**: acts like an extra value for a class attribute
+* **Serif fonts**: extra details on the ends of the main strokes of the letter — traditionally used for long text passages in print materials
+* **Sans-serif fonts**: straight ends creating a cleaner design — if texts are small, sans-serif fonts are easier to read on screens because of the lower resolution compared to that of print 
+* **Monospace fonts**: also known as fixed-width, where every letter within the font is the same width — commonly used for code because they align nicely
+* **Cursive fonts**: either have joining strokes or other cursive characteristics
+* **Fantasy fonts**: usually decorative fonts and are often used for titles
+* **Weight**: (light, medium, bold and black) adds emphasis and affects the amouny of white space and contrast on a page
+* **Style**: normal, italic, oblique
+* **Italic**: add a cursive aspect to some of the lettering
+* **Oblique**: angled version of the normal style
+* **Stretch**: condensed, regular and extended
+* **Condensed**: (narrow) letters are thinner and closer together
+* **Extended**: letters are thicker and further apart
+* **Alignment**: (left, right, center, justify) allows you to control the alignment of text
+* **Justify**: indicates that every line in a paragraph, except the last line should take up the full width of the containing box
+* **Vertical alignment**: used with inline elements (baseline, sub, super, top, text-top, middle, bottom, text-bottom, length)
+* **Psuedo elements**: acts like an extra element in the code
+* **Psuedo class**: acts like an extra value for a class attribute
 
 ## [JPEG vs PNG vs GIF — which image format to use and when?](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d) 
 Written by Rahul Nanwani
 
 ### Compression
 
-**Lossless compression**: possible to reconstruct the original image
-**Lossy compression**: irreversible
+* **Lossless compression**: possible to reconstruct the original image
+* **Lossy compression**: irreversible
 
 ### When to use JPEG
 

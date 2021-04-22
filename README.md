@@ -48,7 +48,7 @@ I've always been a storyteller. Remember that kid in trouble for talking? That w
 
 #### [HTML Links, CSS Layout, JS Functions](class-04.md)
 
-#### class-05.md
+#### [HTML Images; CSS Color & Text](class-05.md)
 
 #### class-06.md
 

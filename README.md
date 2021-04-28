@@ -50,7 +50,7 @@ I've always been a storyteller. Remember that kid in trouble for talking? That w
 
 #### [HTML Images; CSS Color & Text](class-05.md)
 
-#### class-06.md
+#### [Problem Domain, Objects, and the DOM](class-06.md)
 
 #### class-07.md
 

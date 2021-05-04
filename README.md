@@ -52,7 +52,7 @@ I've always been a storyteller. Remember that kid in trouble for talking? That w
 
 #### [Problem Domain, Objects, and the DOM](class-06.md)
 
-#### class-07.md
+#### [Object-Oriented Programming, HTML Tables](class-07.md)
 
 #### class-08.md
 

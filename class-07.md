@@ -51,4 +51,4 @@
 * substring() method: returns characters found between two index numbers where the character for the index number is included and the character for the last index number is not included
 * split() method: when a character is specified, it splits each time it is found, then stores each individual part in an array
 * trim() method: removes whitespace from start and end of string
-* replace() method: takes one value that should be found, and another to replace it (by default, it only replaces the first match it finds)
+* replace() method: takes one value that should be found, and another to replace it (by default, it only replaces the first match it finds) 

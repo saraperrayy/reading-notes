@@ -54,7 +54,7 @@ I've always been a storyteller. Remember that kid in trouble for talking? That w
 
 #### [Object-Oriented Programming, HTML Tables](class-07.md) 
 
-#### class-08.md
+#### [CSS Layout](class-08.md)
 
 #### class-09.md
 

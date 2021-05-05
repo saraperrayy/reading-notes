@@ -59,4 +59,4 @@ You can include multiple CSS files in one page. Some web page authors split up t
 * Keep pages within 960-1000 pixels wide
 * Indicate what the site is about within the top 600 pixels
 * Grids create professional and flexible designs
-* CSS Frameworks provide rules for commin tasks
+* CSS Frameworks provide rules for common tasks

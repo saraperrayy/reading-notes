@@ -3,7 +3,7 @@
 CSS treats each HTML element as if it is in its own box. This box will either be a block-level or inline box. If one block-level element sits inside another block-level element, then the outer box is known as the containing or parent element.
 
 * Block-level elements: start on a new line (Ex: <h1>, <p>, <ul>, <li>)
-* Inline elements: flow in between surrounding text (Ex: <img>, <b>, <i>)
+* Inline elements: flow in between surrounding text (Ex: `<img>, <b>, <i>`)
 
 ## Pages can be fixed width or liquid (stretchy) layouts
 

@@ -111,7 +111,7 @@ Any of these events can be used to trigger a function in your JavaScript code
 #### Keyboard Events
 
 * occur when a user interacts with the keyboard
-* **input**- fires when the value of an <input> or <textarea> element changes
+* **input**- fires when the value of an `<input>` or `<textarea>` element changes
 * **keydown**- user first presses a key
 * **keyup**- user releases a key
 * **keypress**- character is being inserted

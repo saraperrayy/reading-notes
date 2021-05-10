@@ -10,28 +10,30 @@ HTML borrows the concept of a form (printed document that contains spaces for yo
 
 ##### Text input
 
-* <input> 
+* `<input>`
+* example: <input> 
 * **type="text"** creates a single line text input
 * **name**- the value of this attribute identifies the form control and is sent along with the information they enter to the server
 * **maxlength**- you can use this attribute to limit the number of characters
 
 ##### Password input
 
-* <input>
+* `<input>`
 * **type="password"**
 * **name** indicates the name of the password input
 * **maxlength** 
 
 ##### Text area (multi-line)
 
-* <textarea>
+* `<textarea>`
+* example: <textarea>
 
 #### Making Choices
 
 ##### Radio buttons 
 
 * when a user must select one of a number of options
-* <input>
+* `<input>`
 * **type="radio"**
 * **name**
 * **value** of each button in a group should be different
@@ -39,7 +41,7 @@ HTML borrows the concept of a form (printed document that contains spaces for yo
 
 ##### Checkboxes
 
-* <input>
+* `<input>`
 * **type="checkbox"**
 * **name**
 * **value**
@@ -47,40 +49,40 @@ HTML borrows the concept of a form (printed document that contains spaces for yo
 
 ##### Drop-down boxes
 
-* <select> allows users to select one option from a drop down list
+* `<select>` allows users to select one option from a drop down list
 * **name**
-* <option> element is used to specify the options that the user can select from
-* **value**- the <option> element uses the value that is sent to the server along with the name of the control if this option is selected
+* `<option>` element is used to specify the options that the user can select from
+* **value**- the `<option>` element uses the value that is sent to the server along with the name of the control if this option is selected
 * **selected** 
 
 ##### Multiple select box
 
-* <select>
+* `<select>`
 * **size**- you can turn a drop down select box into a box that shows more than one option by adding the size attribute
 * **multiple**- you can allow users to select multiple options from the list by adding the multiple attribute
 
 ##### File input box
 
-* <input>
+* `<input>`
 * **type="file"**
 
 ##### Submit button
 
-* <input>
+* `<input>`
 * **type="submit"
 * **name**
 * **value**
 
 ##### Image button
 
-* <input>
+* `<input>`
 * **type="image"
 * if you want to use an image for the submit button, you can give the attribute a value of image
 
 ##### Grouping form elements
 
-* <fieldset> groups related form controls together
-* <legend> comes after fieldset and contains a caption to identify the purpose of that group of form controls
+* `<fieldset>` groups related form controls together
+* `<legend>` comes after fieldset and contains a caption to identify the purpose of that group of form controls
 
 ## Chapter 14: Lists, Tables & Forms (pp.330-357)
 

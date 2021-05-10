@@ -58,7 +58,7 @@ I've always been a storyteller. Remember that kid in trouble for talking? That w
 
 #### [Forms and JS Events](class-09.md)
 
-#### class-10.md
+#### [Debugging](class-10.md)
 
 #### class-11.md
 

@@ -60,12 +60,12 @@ I've always been a storyteller. Remember that kid in trouble for talking? That w
 
 #### [Debugging](class-10.md)
 
-#### class-11.md
+#### [Class 11 Reading Notes](class-11.md)
 
-#### class-12.md
+#### [Docs for the HTML <canvas> Element & Chart.js](class-12.md)
 
-#### class-13.md
+#### [Local Storage](class-13.md)
 
-#### class-14.md
+#### [CSS Transforms, Transitions, and Animations](class-14.md)
 
-#### class-15.md
+#### [What Google Learned About Teams](class-15.md)

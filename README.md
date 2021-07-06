@@ -62,7 +62,7 @@ I've always been a storyteller. Remember that kid in trouble for talking? That w
 
 #### [Class 11 Reading Notes](class-11.md)
 
-#### [Docs for the HTML <canvas> Element & Chart.js](class-12.md)
+#### [Docs for the HTML `<canvas>` Element & Chart.js](class-12.md)
 
 #### [Local Storage](class-13.md)
 

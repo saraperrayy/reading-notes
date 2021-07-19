@@ -22,7 +22,7 @@
 
 1. What types of things can you pass in the props?
 
-* 
+* things you pass to the constructor of that class
 
 2. What is the big difference between props and state?
 
@@ -34,3 +34,4 @@
 
 4. What are some examples of things that we could store in state?
 
+* when you want to change something 

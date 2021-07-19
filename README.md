@@ -69,3 +69,9 @@ I've always been a storyteller. Remember that kid in trouble for talking? That w
 #### [CSS Transforms, Transitions, and Animations](class-14.md)
 
 #### [What Google Learned About Teams](class-15.md)
+
+### Code 301 Reading Notes: Intermediate Software Development
+
+#### [Introduction to React and Components](read-01.md)
+
+## Things I want to know more about

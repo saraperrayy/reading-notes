@@ -74,4 +74,6 @@ I've always been a storyteller. Remember that kid in trouble for talking? That w
 
 #### [Introduction to React and Components](read-01.md)
 
+#### [State and Props](read-02.md)
+
 ## Things I want to know more about
